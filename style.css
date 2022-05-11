@@ -7,12 +7,12 @@
 }
 
 body {
-  background: #272727;
+  background: #a76b6b;
   color: #fff;
 }
 
 .wrapper {
-  margin: 0 auto;
+  margin: 100px auto;
   max-width: 80%;
 }
 
