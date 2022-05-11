@@ -9,6 +9,8 @@
 
 [![Minimalist example](https://camo.githubusercontent.com/d04bee7a5b8f62cc6655dbec65c4d14583e4d78d0c434ddc070f6881bb9568fc/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f416355642d5f596a6a71672f302e6a7067)](https://www.youtube.com/watch?v=AcUd-_Yjjqg)
 
+![screenshot](ToDO-Project Screenshot.png)
+
 ## [Live Demo!]
 (http://www.fatima-todolist.com/)
 
@@ -27,7 +29,7 @@ To get a local copy up and running follow these simple steps:
 1. Open your terminal and navigate to the folder you would like to put these files.
 2. Type these commands into the terminal:
 
-- git clone https://github.com/Fatima-hub333/ToDo-List.git
+- git clone https://github.com/Fatima-hub333/JavaScript_Practice.git
 - cd todo
 - npm install
 
@@ -53,7 +55,7 @@ To get a local copy up and running follow these simple steps:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Fatima-hub333/ToDo-List/issues).
+Feel free to check the [issues page](https://github.com/Fatima-hub333/JavaScript_Practice/issues).
 
 
 ## Show your support
